@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Simulador de Parcelamento Nextstream
-Description: Plugin para adicionar funcionalidade de parcelamento personalizado ao WooCommerce.
-Version: 1.2.5
-Author: Sylas Filho
+Description: Adiciona através de um shortcode, uma simulação de parcelamento na página do produto.
+Version: 1.3.0
+Author: Sylas Filho A
 Author URI: https://nextstream.com.br
 */
 
